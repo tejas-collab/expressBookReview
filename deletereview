@@ -1,0 +1,8 @@
+curl -X DELETE http://localhost:3000/customer/auth/review/1 \
+-H "Content-Type: application/json" \
+-H "Cookie: connect.sid=YOUR_SESSION_ID"
+
+{
+  "message": "Review deleted successfully",
+  "reviews": {}
+}
