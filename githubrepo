@@ -1,0 +1,18 @@
+curl https://api.github.com/repos/tejas-collab/expressBookReview
+
+{
+  "id": 123456789,
+  "node_id": "R_kgDOExample",
+  "name": "expressBookReview",
+  "full_name": "DevSaurabhY/expressBookReview",
+  "private": false,
+  "fork": true,
+  "url": "https://api.github.com/repos/DevSaurabhY/expressBookReview",
+  "html_url": "https://github.com/DevSaurabhY/expressBookReview",
+  "parent": {
+    "full_name": "ibm-developer-skills-network/expressBookReview"
+  },
+  "source": {
+    "full_name": "ibm-developer-skills-network/expressBookReview"
+  }
+}
